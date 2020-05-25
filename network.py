@@ -4,7 +4,9 @@ from wallet import Wallet
 
 if __name__ == '__main__':
     wallets = [Wallet() for _ in range(20)]
-    Scrooge(wallets)
+    scrooge = Scrooge(wallets)
+
+    wallets[0].create_transaction(2, wallets[1], scrooge)
 
     # while(True):
     #     print("hey there")

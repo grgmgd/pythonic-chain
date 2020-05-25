@@ -1,4 +1,5 @@
 from utils import object_hash
+from bcolors import bcolors
 
 
 class Blockchain():
@@ -38,4 +39,4 @@ class Block():
         self.index = index
 
     def __str__(self):
-        return f'Block No.: {self.index}\tPrevious block hash: {self.previous_hash} \n{ "".join(map(str, self.transactions)) } '
+        return f'{bcolors.HEADER}Block No.: {self.index}\tPrevious block hash: {self.previous_hash} {bcolors.ENDC}\n{ "".join(map(str, self.transactions)) } '

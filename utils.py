@@ -20,7 +20,11 @@ def signer(private_key, digest):
 
 
 def verifier(public_key, signature, data):
-    return public_key.verify(signature, data, utils.Prehashed(hashing_method))
+    try:
+        public_key.verify(signature, data, utils.Prehashed(hashing_method))
+        return True
+    except:
+        return False
 
 
 def object_hash(object_value):
