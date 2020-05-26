@@ -17,7 +17,7 @@ class Wallet():
             return
 
         transfer_coins = owned_coins[:amount]
-        transaction = Transaction(transfer_coins, amount, receiver)
+        transaction = Transaction(transfer_coins, receiver.public_key)
         hashed_transaction = object_hash(transaction)
         signature = signer(self.__private_key, hashed_transaction)
         transaction.sign_transaction(signature)

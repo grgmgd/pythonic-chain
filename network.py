@@ -7,6 +7,18 @@ if __name__ == '__main__':
     scrooge = Scrooge(wallets)
 
     wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+    wallets[0].create_transaction(2, wallets[1], scrooge)
+
+    print(len(wallets[0].get_balance(scrooge.blockchain)))
+    print(len(wallets[1].get_balance(scrooge.blockchain)))
 
     # while(True):
     #     print("hey there")
