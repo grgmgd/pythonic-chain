@@ -28,6 +28,10 @@ class Wallet():
         coins = []
         for block in blockchain.chain:
             for transaction in block.transactions:
-                if(transaction.receiver == self.id):
-                    coins = [*coins, *transaction.coins]
+                for coin in transaction.coins:
+                    if(coin.wallet_id == self.id):
+                        coins.append(coin)
+                for coin in transaction.used_coins:
+                    if(coin.wallet_id == self.id):
+                        coins.remove(coin)
         return coins

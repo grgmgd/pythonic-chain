@@ -28,15 +28,16 @@ class Blockchain():
         self.chain.append(block)
         print(block)
 
-    def str(self):
-        return "blockchain"
-
 
 class Block():
     def __init__(self, index, previous_hash, transactions):
         self.previous_hash = previous_hash
         self.transactions = transactions
         self.index = index
+        self.id = self.__hash__()
+
+    def sign(self, signature):
+        self.signature = signature
 
     def __str__(self):
         return f'{bcolors.HEADER}Block No.: {self.index}\tPrevious block hash: {self.previous_hash} {bcolors.ENDC}\n{ "".join(map(str, self.transactions)) } '

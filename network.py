@@ -6,19 +6,8 @@ if __name__ == '__main__':
     wallets = [Wallet() for _ in range(20)]
     scrooge = Scrooge(wallets)
 
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-    wallets[0].create_transaction(2, wallets[1], scrooge)
-
-    print(len(wallets[0].get_balance(scrooge.blockchain)))
-    print(len(wallets[1].get_balance(scrooge.blockchain)))
+    for person in range(0, 20, 2):
+        wallets[person].create_transaction(10, wallets[person+1], scrooge)
 
     # while(True):
     #     print("hey there")
