@@ -1,4 +1,4 @@
-from utils import object_hash
+from utils import object_hash, printer
 from bcolors import bcolors
 
 
@@ -26,7 +26,10 @@ class Blockchain():
             self.chain) == 0 else object_hash(self.chain[-1])
         block = Block(len(self.chain), previous_hash, transactions)
         self.chain.append(block)
-        print(block)
+        printer(self)
+
+    def __str__(self):
+        return f'{"".join(map(str, self.chain))}'
 
 
 class Block():
@@ -40,4 +43,4 @@ class Block():
         self.signature = signature
 
     def __str__(self):
-        return f'{bcolors.HEADER}Block No.: {self.index}\tPrevious block hash: {self.previous_hash} {bcolors.ENDC}\n{ "".join(map(str, self.transactions)) } '
+        return f'\n{bcolors.OKBLUE}Block No.: {self.index}\tPrevious block hash: {self.previous_hash} {bcolors.ENDC}\n{ "".join(map(str, self.transactions)) }'

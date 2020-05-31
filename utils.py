@@ -19,7 +19,7 @@ def generate_keys():
 
 
 def printer(*value):
-    print(*value)
+    print(*value, sep="")
     with open(OUTPUT_PATH, 'a') as f:
         print(*value, file=f)
 

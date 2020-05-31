@@ -1,0 +1,988 @@
+
+[94mBlock No.: 0	Previous block hash: None [0m
+
+Previous Transaction hash: None
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704572170	coin id: 6a2efc18-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc19-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc20-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc21-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'o]`v!\xa0E3yOX\x08V\xd8/\xfdl\x90\x9c\x7f^\x1d\xae\xc4\xd8\xa7\xecuJ|\xba\x1b'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704055260	coin id: 6a2efc22-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc23-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc24-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc25-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc26-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc27-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc28-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc29-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc2a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc2b-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x1d8\xf3]F\xff\xb4\xb0\x8b\x16\x94\x1bzM\xd1T\x9c!{\xd1y%Z\xfc\xdcE\x96W\xba\xfef\x19'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704055290	coin id: 6a2efc2c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc30-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc31-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc32-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc33-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc34-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc35-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc6\x03|\xeb\x80\xf4w\x14Z\xd1\xacx_E*_4\xa5;\x01\xe7\x15\x13.\xb0|\x06\xb2^\x8c\x8ci'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057372	coin id: 6a2efc36-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc37-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc38-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc39-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3f-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc2\x8c\xee\x8a\xad\x9417)\xa7J\x15\xbd\x92?\xfc6ZU7\x86)h>\xf0)\xbb\x93\x163n\xc1'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057402	coin id: 6a2efc40-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc41-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc42-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc43-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc44-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc45-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc46-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc47-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc48-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc49-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'.\xd4\r\x9cb#\xe3:\xff\xdc}\x08\x12\x90\xac\x89p\x0f\xf7\x88eZ\x13\x87\xc5}\xa0\x7f\xfce\xb6d'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057432	coin id: 6a2efc4a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc50-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc51-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc52-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc53-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xad\xfd"\xff-dG\xf8\x81\x1e\xc3\x8aO\xb2P\xbau\xfeUPW\xfb\x95X\xc1\xac 1\x87\x16\xed\x12'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057462	coin id: 6a2efc54-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc55-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc56-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc57-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc58-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc59-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5d-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc1\xba\xa9\x8b\xddrl\xb9B\x92\xe4\xfdBqpu!\xb4,\x85\x12\x9b~\xac\xefu\xd8|\xa7t#S'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057492	coin id: 6a2efc5e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc5f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc60-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc61-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc62-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc63-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc64-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc65-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc66-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc67-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x7f&_|\x19*\xb6h\xc8\x99[!\x95\x84\xb3\xbc'\xb3BU\x85.06\x83_m\xbf\x03\xb1\xb8\xde"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057522	coin id: 6a2efc68-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc69-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc70-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc71-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x80\x04\x17\x0b\x94\xd4\x1e\xc0'_u\xc0xq\x89]\x02\xc0\xef\x83\xa6\x93`\xfd\x97\xa6\x94\x85\x9399g"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057552	coin id: 6a2efc72-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc73-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc74-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc75-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc76-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc77-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc78-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc79-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc7a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc7b-a2ff-11ea-9294-89074a3a0714
+================================================================================
+
+[94mBlock No.: 0	Previous block hash: None [0m
+
+Previous Transaction hash: None
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704572170	coin id: 6a2efc18-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc19-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc20-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc21-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'o]`v!\xa0E3yOX\x08V\xd8/\xfdl\x90\x9c\x7f^\x1d\xae\xc4\xd8\xa7\xecuJ|\xba\x1b'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704055260	coin id: 6a2efc22-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc23-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc24-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc25-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc26-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc27-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc28-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc29-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc2a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc2b-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x1d8\xf3]F\xff\xb4\xb0\x8b\x16\x94\x1bzM\xd1T\x9c!{\xd1y%Z\xfc\xdcE\x96W\xba\xfef\x19'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704055290	coin id: 6a2efc2c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc30-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc31-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc32-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc33-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc34-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc35-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc6\x03|\xeb\x80\xf4w\x14Z\xd1\xacx_E*_4\xa5;\x01\xe7\x15\x13.\xb0|\x06\xb2^\x8c\x8ci'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057372	coin id: 6a2efc36-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc37-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc38-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc39-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3f-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc2\x8c\xee\x8a\xad\x9417)\xa7J\x15\xbd\x92?\xfc6ZU7\x86)h>\xf0)\xbb\x93\x163n\xc1'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057402	coin id: 6a2efc40-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc41-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc42-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc43-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc44-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc45-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc46-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc47-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc48-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc49-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'.\xd4\r\x9cb#\xe3:\xff\xdc}\x08\x12\x90\xac\x89p\x0f\xf7\x88eZ\x13\x87\xc5}\xa0\x7f\xfce\xb6d'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057432	coin id: 6a2efc4a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc50-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc51-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc52-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc53-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xad\xfd"\xff-dG\xf8\x81\x1e\xc3\x8aO\xb2P\xbau\xfeUPW\xfb\x95X\xc1\xac 1\x87\x16\xed\x12'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057462	coin id: 6a2efc54-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc55-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc56-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc57-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc58-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc59-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5d-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc1\xba\xa9\x8b\xddrl\xb9B\x92\xe4\xfdBqpu!\xb4,\x85\x12\x9b~\xac\xefu\xd8|\xa7t#S'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057492	coin id: 6a2efc5e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc5f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc60-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc61-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc62-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc63-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc64-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc65-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc66-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc67-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x7f&_|\x19*\xb6h\xc8\x99[!\x95\x84\xb3\xbc'\xb3BU\x85.06\x83_m\xbf\x03\xb1\xb8\xde"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057522	coin id: 6a2efc68-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc69-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc70-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc71-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x80\x04\x17\x0b\x94\xd4\x1e\xc0'_u\xc0xq\x89]\x02\xc0\xef\x83\xa6\x93`\xfd\x97\xa6\x94\x85\x9399g"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057552	coin id: 6a2efc72-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc73-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc74-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc75-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc76-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc77-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc78-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc79-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc7a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc7b-a2ff-11ea-9294-89074a3a0714
+================================================================================
+[94mBlock No.: 1	Previous block hash: b'Ok\x0eF\xeb1\xf8\x96\x88\xe7\xb3r\x0b\xb2\xd5\rE\xe8\x9d\x0b\xa7\xf7\xf2L\xf4\xb5\x91\xaa\x05"\xb2\xfe' [0m
+
+Previous Transaction hash: b'h/\xa39d\x06gF\x02j\xeb\xc7\xd9}\xf2\xd92?b\x9el\xb2h\xef\x90\xf9M\x03\x03\xab\x00\xb0'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057582	coin id: 6a2efc7c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc80-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc81-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc82-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc83-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc84-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc85-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x17\xdf\xce\x1a\xd4\xdd\xcc\xd1I$\x1b\xf7o\x83\xdc`\x14|\x8b\xab?y\x06#\x80\x1f\xc7L\xd6O\x9a"'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058128	coin id: 6a2efc86-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc87-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc88-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc89-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8f-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\xc9\x98\x85\x02\xc3\xcc\xd7\x19\x93H\xd91\xaf\x0c.C\xc4'`d\xbb\x8f1\xc0\xbd\x1c\xd4MaKe\xa1"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058158	coin id: 6a2efc90-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc91-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc92-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc93-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc94-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc95-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc96-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc97-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc98-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc99-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'&Vw\xc9U\xd7m\xaf\xd7&\xd3\xd7T\x06\xad\xa3y\xea\xe4\xcc\x80*\xac\xb1\x02@v*d?\xfd\xf8'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058188	coin id: 6a2efc9a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca1-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca3-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b':\x98\x96\x94\xbf\xc1{\x98\xb2\x82F[\xc7\xf5<\xa4_R\x19\x86j\xcd\x96h\xcb\xc4\x85\xf0`$o\xe4'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058218	coin id: 6a2efca4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcaa-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcab-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcac-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcad-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x90\xe3\x91\x85x3\xad\xc6\x19l\xd0\xd0N\x93\t\xa76\xebQ\xe2\xfd\x03\x8eq];\xc4-8\xeb,Q'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058248	coin id: 6a2efcae-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcaf-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb1-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb3-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb7-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xdd\x04v4w\xe2~\xde\xab\xd5&jdR\xc2\xb4\x8e\xc4D\xadA2\xd9\x12w\xef\x12&k\xadk\xbf'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058278	coin id: 6a2efcb8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcb9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcba-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbb-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbc-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbd-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbe-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbf-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcc0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcc1-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xa5\xf6S\x84\x9e\x94\xe0U\x1b\xe3\x11\x97\x96\xbb\xde\x06\xc2\xf1 \x9f\xb6\xed\x0cf\xa8\x11\x07\xd9S)l\x03'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058308	coin id: 6a2efcc2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc3-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcca-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efccb-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xb3\xae\xb8\x90\\T\xe3\xd9k(9R\xb1#6\x1az.\x1du\x00Ayf\x04\xc3\xc9\xb5\xa6\xb9JW'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058338	coin id: 6a2efccc-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efccd-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcce-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efccf-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd1-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd3-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd5-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x80:\xado= 4\x1d\t\xfd-\x8aK\xed{\xf3\xae\xa1\xa1'\xa6\x06\x8a\xe8\x88\x7f\xc8\xa4\x80<5_"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058628	coin id: 6a2efcd6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcd7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcd8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcd9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcda-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdb-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdc-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdd-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcde-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdf-a2ff-11ea-9294-89074a3a0714
+================================================================================
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057582	coin id: 6a2efc7c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7d-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 1 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058188	coin id: 6a2efc9a-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704055290	coin id: 6a2efc2c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2d-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057522	coin id: 6a2efc68-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc69-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[91m [1m [4m Can't process transaction, wallet not verified or you're trying to double spend [0m [0m [0m
+[91m 
+Previous Transaction hash: None
+Amount: 3 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057582	coin id: 6a2efc7c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7e-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 8 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057492	coin id: 6a2efc5e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc5f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc60-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc61-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc62-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc63-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc64-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc65-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 1 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704055260	coin id: 6a2efc22-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 10 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058248	coin id: 6a2efcae-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcaf-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb1-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb3-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb7-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[91m [1m [4m Can't process transaction, wallet not verified or you're trying to double spend [0m [0m [0m
+[91m 
+Previous Transaction hash: None
+Amount: 1 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058188	coin id: 6a2efc9a-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 7 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058218	coin id: 6a2efca4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcaa-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 3 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057372	coin id: 6a2efc36-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc37-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc38-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058158	coin id: 6a2efc90-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc91-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m
+
+[94mBlock No.: 0	Previous block hash: None [0m
+
+Previous Transaction hash: None
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704572170	coin id: 6a2efc18-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc19-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc1f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc20-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc21-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'o]`v!\xa0E3yOX\x08V\xd8/\xfdl\x90\x9c\x7f^\x1d\xae\xc4\xd8\xa7\xecuJ|\xba\x1b'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704055260	coin id: 6a2efc22-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc23-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc24-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc25-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc26-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc27-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc28-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc29-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc2a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055260	coin id: 6a2efc2b-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x1d8\xf3]F\xff\xb4\xb0\x8b\x16\x94\x1bzM\xd1T\x9c!{\xd1y%Z\xfc\xdcE\x96W\xba\xfef\x19'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704055290	coin id: 6a2efc2c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc2f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc30-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc31-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc32-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc33-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc34-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704055290	coin id: 6a2efc35-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc6\x03|\xeb\x80\xf4w\x14Z\xd1\xacx_E*_4\xa5;\x01\xe7\x15\x13.\xb0|\x06\xb2^\x8c\x8ci'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057372	coin id: 6a2efc36-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc37-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc38-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc39-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057372	coin id: 6a2efc3f-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc2\x8c\xee\x8a\xad\x9417)\xa7J\x15\xbd\x92?\xfc6ZU7\x86)h>\xf0)\xbb\x93\x163n\xc1'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057402	coin id: 6a2efc40-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc41-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc42-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc43-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc44-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc45-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc46-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc47-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc48-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 6a2efc49-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'.\xd4\r\x9cb#\xe3:\xff\xdc}\x08\x12\x90\xac\x89p\x0f\xf7\x88eZ\x13\x87\xc5}\xa0\x7f\xfce\xb6d'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057432	coin id: 6a2efc4a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc4f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc50-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc51-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc52-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057432	coin id: 6a2efc53-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xad\xfd"\xff-dG\xf8\x81\x1e\xc3\x8aO\xb2P\xbau\xfeUPW\xfb\x95X\xc1\xac 1\x87\x16\xed\x12'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057462	coin id: 6a2efc54-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc55-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc56-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc57-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc58-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc59-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 6a2efc5d-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xc1\xba\xa9\x8b\xddrl\xb9B\x92\xe4\xfdBqpu!\xb4,\x85\x12\x9b~\xac\xefu\xd8|\xa7t#S'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057492	coin id: 6a2efc5e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc5f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc60-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc61-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc62-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc63-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc64-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc65-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc66-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 6a2efc67-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x7f&_|\x19*\xb6h\xc8\x99[!\x95\x84\xb3\xbc'\xb3BU\x85.06\x83_m\xbf\x03\xb1\xb8\xde"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057522	coin id: 6a2efc68-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc69-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc6f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc70-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057522	coin id: 6a2efc71-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x80\x04\x17\x0b\x94\xd4\x1e\xc0'_u\xc0xq\x89]\x02\xc0\xef\x83\xa6\x93`\xfd\x97\xa6\x94\x85\x9399g"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057552	coin id: 6a2efc72-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc73-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc74-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc75-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc76-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc77-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc78-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc79-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc7a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057552	coin id: 6a2efc7b-a2ff-11ea-9294-89074a3a0714
+================================================================================
+[94mBlock No.: 1	Previous block hash: b'Ok\x0eF\xeb1\xf8\x96\x88\xe7\xb3r\x0b\xb2\xd5\rE\xe8\x9d\x0b\xa7\xf7\xf2L\xf4\xb5\x91\xaa\x05"\xb2\xfe' [0m
+
+Previous Transaction hash: b'h/\xa39d\x06gF\x02j\xeb\xc7\xd9}\xf2\xd92?b\x9el\xb2h\xef\x90\xf9M\x03\x03\xab\x00\xb0'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704057582	coin id: 6a2efc7c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc7f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc80-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc81-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc82-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc83-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc84-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 6a2efc85-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x17\xdf\xce\x1a\xd4\xdd\xcc\xd1I$\x1b\xf7o\x83\xdc`\x14|\x8b\xab?y\x06#\x80\x1f\xc7L\xd6O\x9a"'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058128	coin id: 6a2efc86-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc87-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc88-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc89-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058128	coin id: 6a2efc8f-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\xc9\x98\x85\x02\xc3\xcc\xd7\x19\x93H\xd91\xaf\x0c.C\xc4'`d\xbb\x8f1\xc0\xbd\x1c\xd4MaKe\xa1"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058158	coin id: 6a2efc90-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc91-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc92-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc93-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc94-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc95-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc96-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc97-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc98-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058158	coin id: 6a2efc99-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'&Vw\xc9U\xd7m\xaf\xd7&\xd3\xd7T\x06\xad\xa3y\xea\xe4\xcc\x80*\xac\xb1\x02@v*d?\xfd\xf8'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058188	coin id: 6a2efc9a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9b-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efc9f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca1-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058188	coin id: 6a2efca3-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b':\x98\x96\x94\xbf\xc1{\x98\xb2\x82F[\xc7\xf5<\xa4_R\x19\x86j\xcd\x96h\xcb\xc4\x85\xf0`$o\xe4'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058218	coin id: 6a2efca4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efca9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcaa-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcab-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcac-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058218	coin id: 6a2efcad-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x90\xe3\x91\x85x3\xad\xc6\x19l\xd0\xd0N\x93\t\xa76\xebQ\xe2\xfd\x03\x8eq];\xc4-8\xeb,Q'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058248	coin id: 6a2efcae-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcaf-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb1-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb3-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 6a2efcb7-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xdd\x04v4w\xe2~\xde\xab\xd5&jdR\xc2\xb4\x8e\xc4D\xadA2\xd9\x12w\xef\x12&k\xadk\xbf'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058278	coin id: 6a2efcb8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcb9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcba-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbb-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbc-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbd-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbe-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcbf-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcc0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 6a2efcc1-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xa5\xf6S\x84\x9e\x94\xe0U\x1b\xe3\x11\x97\x96\xbb\xde\x06\xc2\xf1 \x9f\xb6\xed\x0cf\xa8\x11\x07\xd9S)l\x03'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058308	coin id: 6a2efcc2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc3-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcc9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efcca-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058308	coin id: 6a2efccb-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xb3\xae\xb8\x90\\T\xe3\xd9k(9R\xb1#6\x1az.\x1du\x00Ayf\x04\xc3\xc9\xb5\xa6\xb9JW'
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058338	coin id: 6a2efccc-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efccd-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcce-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efccf-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd0-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd1-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd3-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd4-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 6a2efcd5-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b"\x80:\xado= 4\x1d\t\xfd-\x8aK\xed{\xf3\xae\xa1\xa1'\xa6\x06\x8a\xe8\x88\x7f\xc8\xa4\x80<5_"
+Amount: 10 	 Type: create
+
+Coins: 
+Wallet ID: 8788704058628	coin id: 6a2efcd6-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcd7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcd8-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcd9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcda-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdb-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdc-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdd-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcde-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058628	coin id: 6a2efcdf-a2ff-11ea-9294-89074a3a0714
+================================================================================
+[94mBlock No.: 2	Previous block hash: b'\x7f\xfd\xfdz\xa7\xe1\x9b\x0b\xebma\xf6\xe3\xf7\xfdm\x9a\x9c\xe9\x8e_JT(\x8b\xb0kA\xa1\xa16f' [0m
+
+Previous Transaction hash: b'\x84\x14\x85\x85\xaa!2Q\xe1\xa9*\xd1\xd3\x8dG\x8a\xad\x92f+^\xf4@M\x05\xfb\xe2dzC\x93^'
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057402	coin id: 77613cf2-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057402	coin id: 77613cf3-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'!\x01\xa4I\x9c,=q!\x85\xb7\xf4\xe5\xf0\x12\xc5\x91\x7f\x16\xef\xdf\xd5%U!\xf9f3\xeazg\xcd'
+Amount: 1 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058128	coin id: 77613cf4-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x1b\xee\xd6\xb4\x08\xa3Q\x8d\xf0\x04\x91\x97P%gS\xe2I\xd7\x9e\xfaaj\xbd\xf1MM.\x0f=\x91O'
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057492	coin id: 77613cf5-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057492	coin id: 77613cf6-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x16\xd6,W\x19\xe6%\xdf\x8d\xdcCO\xb6{\xa7\xb0y\xd8\x82\xcf\xf0\x8c\xbc\x16D$\xfa\x87\xc4\xc9\xfd\xd7'
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057582	coin id: 77613cf7-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057582	coin id: 77613cf8-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'2\xac\xb6\x99R\xaf5\xe0\x82\xe3K\x82\t\x89o\xc4\xdeJ\xf5L\xd8yV\xa2\n\x926\xd5#;\xad\xc9'
+Amount: 8 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057462	coin id: 77613cf9-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613cfa-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613cfb-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613cfc-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613cfd-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613cfe-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613cff-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613d00-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xd1\x05\xac(\xd1\xcf6\xf4\xaa\xcfw\xdf\xd6e\x08\xc40q=\xeb\xa5X\xfdo\xbe=\xfc\x93\xa6\xc6\xea\x96'
+Amount: 1 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057462	coin id: 77613d01-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'$E\xb3J\xd2\xd1w\xfe>\xb8\xf5\xe27\x1d\xec\xae\\\x8a@\xa7\x0f\xf7\x97\xbe\x9fPd\x83_\xb6\x168'
+Amount: 10 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058278	coin id: 77613d02-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d03-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d04-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d05-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d06-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d07-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d08-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d09-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d0a-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058278	coin id: 77613d0b-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xa0q\xe6\xf7`\xf6\xdc\r\xf7Q.#Ww\nj\xeeu\xb34\x19\xfb\xcb\xb6}:\x92\xf9dFO\xbf'
+Amount: 7 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704057462	coin id: 77613d0c-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613d0d-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613d0e-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613d0f-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613d10-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613d11-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704057462	coin id: 77613d12-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\xe7O\x1c\xadY\xf9\xc5\x00O\x1b\x04\xbc\xaa\xf9\xfcO}\x08\xa1\x05[\xe1WN\x85\xd6\xb8\x8f\xd2\xed\xda\xe0'
+Amount: 3 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058248	coin id: 77613d13-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 77613d14-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058248	coin id: 77613d15-a2ff-11ea-9294-89074a3a0714
+================================================================================
+Previous Transaction hash: b'\x02\xe3\xca\x99\xb8\xc4\xa8\x9e\xeb[\x9b/4\xb7\xabT\xec\x8fP:\x98\x90\xdd\x7f\xe4b\xd3\xe0\xd6\xa4\xae|'
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704058338	coin id: 77613d16-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704058338	coin id: 77613d17-a2ff-11ea-9294-89074a3a0714
+================================================================================
+[93m [1m [4m Under constrcution block transaction [0m [0m [0m
+[93m 
+Previous Transaction hash: None
+Amount: 2 	 Type: transfer
+
+Coins: 
+Wallet ID: 8788704572170	coin id: 6a2efc18-a2ff-11ea-9294-89074a3a0714
+Wallet ID: 8788704572170	coin id: 6a2efc19-a2ff-11ea-9294-89074a3a0714
+================================================================================ [0m

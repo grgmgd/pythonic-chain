@@ -6,6 +6,7 @@ from bcolors import bcolors
 
 
 VERIFICATION_ERROR_MESSAGE = "Can't process transaction, wallet not verified or you're trying to double spend"
+UNDER_CONSTRUCTION_MESSAGE = "Under constrcution block transaction"
 
 
 class Scrooge():
@@ -55,10 +56,15 @@ class Scrooge():
         verified = self.verify_transaction(transaction, sender_pk)
         double_spending = self.is_double_spending(transaction)
         if not verified or double_spending:
-            printer(bcolors.FAIL, VERIFICATION_ERROR_MESSAGE, bcolors.ENDC)
+            printer(bcolors.FAIL, bcolors.BOLD, bcolors.UNDERLINE,
+                    VERIFICATION_ERROR_MESSAGE, bcolors.ENDC, bcolors.ENDC, bcolors.ENDC)
+            printer(bcolors.FAIL, transaction, bcolors.ENDC)
             return
 
         self.transactions_cache.append(transaction)
+        printer(bcolors.WARNING, bcolors.BOLD, bcolors.UNDERLINE,
+                UNDER_CONSTRUCTION_MESSAGE, bcolors.ENDC, bcolors.ENDC, bcolors.ENDC)
+        printer(bcolors.WARNING, transaction, bcolors.ENDC)
         self.check_for_new_block()
 
     def create_coins(self, amount, wallet_id):

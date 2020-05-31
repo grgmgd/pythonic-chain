@@ -19,9 +19,9 @@ if __name__ == '__main__':
     scrooge = Scrooge(wallets)
 
     def on_space_press(_):
-        print(bcolors.OKGREEN, "Blockchain log saved to:",
-              OUTPUT_PATH, bcolors.ENDC)
-        print(bcolors.WARNING, "Terminating simulation...", bcolors.ENDC)
+        print(bcolors.OKGREEN, bcolors.BOLD, "Blockchain log saved to:",
+              OUTPUT_PATH, bcolors.ENDC, bcolors.ENDC, sep="")
+        print(bcolors.WARNING, "Terminating simulation...", bcolors.ENDC, sep="")
         _exit(0)
 
     keyboard.on_press_key("space", on_space_press)
