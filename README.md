@@ -4,12 +4,14 @@ A python implementation of a modified version of **ScroogeCoin**. Scrooge publis
 
 ## Files 🗄️
 
-**network.py:** Simulation of a network of transactions, initialized to 100 wallets (user) every user has 10 coins in their wallet.
-**scrooge.py:** Scrooge entity, initializes the blockchain and the genesis blocks.
-**scroogecoin.py:** Class implementation of a ScroogeCoin.
-**blockchain.py:** Contains the blockchain and the block classes.
-**transaction.py:** Class implementation of a transaction.
-**wallet.py:** Class implementation of a ScroogeCoin user.
+| File name                            | Description                                                                                                         |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| [**network.py**](network.py)         | Simulation of a network of transactions, initialized to 100 wallets (user) every user has 10 coins in their wallet. |
+| [**scrooge.py**](scrooge.py)         | Scrooge entity, initializes the blockchain and the genesis blocks.                                                  |
+| [**scroogecoin.py**](scroogecoin.py) | Class implementation of a ScroogeCoin.                                                                              |
+| [**blockchain.py**](blockchain.py)   | Contains the blockchain and the block classes.                                                                      |
+| [**transaction.py**](transaction.py) | Class implementation of a transaction.                                                                              |
+| [**wallet.py**](wallet.py)           | Class implementation of a ScroogeCoin user.                                                                         |
 
 ## Running the simulation 🏃‍♂️
 
