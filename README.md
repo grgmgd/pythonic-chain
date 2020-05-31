@@ -15,9 +15,14 @@ A python implementation of a modified version of **ScroogeCoin**. Scrooge publis
 
 ## Running the simulation 🏃‍♂️
 
+**Make sure you're running the network simulation giving root access**
+
     sudo python network.py
 
-**Make sure you're running the network simulation giving root access**
+### Alternatively, if you have pipenv
+
+    sudo pipenv install
+    sudo pipenv run python network.py
 
 ## Generating you're own simulation ⛏️
 
