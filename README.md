@@ -1,4 +1,4 @@
-# Pythonic chain
+# Pythonic chain 🐍⛓️
 
 A python implementation of a modified version of **ScroogeCoin**. Scrooge publishes an append only ledger that is a blockchain. Each block contains 10 transactions verified and appended only by Scrooge.
 
