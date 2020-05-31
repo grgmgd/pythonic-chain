@@ -1,9 +1,12 @@
+import os
 from cryptography.hazmat.primitives.asymmetric import dsa, utils
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.serialization import PublicFormat, Encoding
 
 hashing_method = hashes.SHA256()
+
+OUTPUT_PATH = "./output/log.txt"
 
 
 def generate_keys():
@@ -13,6 +16,12 @@ def generate_keys():
     )
     public_key = private_key.public_key()
     return private_key, public_key
+
+
+def printer(*value):
+    print(*value)
+    with open(OUTPUT_PATH, 'a') as f:
+        print(*value, file=f)
 
 
 def signer(private_key, digest):

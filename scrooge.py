@@ -1,7 +1,11 @@
-from utils import generate_keys, object_hash, signer, verifier
+from utils import generate_keys, object_hash, signer, verifier, printer
 from blockchain import Blockchain
 from transaction import Transaction
 from scroogecoin import ScroogeCoin
+from bcolors import bcolors
+
+
+VERIFICATION_ERROR_MESSAGE = "Can't process transaction, wallet not verified or you're trying to double spend"
 
 
 class Scrooge():
@@ -51,8 +55,7 @@ class Scrooge():
         verified = self.verify_transaction(transaction, sender_pk)
         double_spending = self.is_double_spending(transaction)
         if not verified or double_spending:
-            print(
-                "Can't process transaction, wallet not verified or you're trying to double spend")
+            printer(bcolors.FAIL, VERIFICATION_ERROR_MESSAGE, bcolors.ENDC)
             return
 
         self.transactions_cache.append(transaction)

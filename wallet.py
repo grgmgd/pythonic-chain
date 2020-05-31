@@ -1,5 +1,8 @@
 from utils import generate_keys, signer, object_hash
 from transaction import Transaction
+from bcolors import bcolors
+
+BALANCE_ERROR_MESSAGE = "Can't make transaction, not enough balance"
 
 
 class Wallet():
@@ -13,7 +16,7 @@ class Wallet():
     def create_transaction(self, amount, receiver, scrooge):
         owned_coins = self.get_balance(scrooge.blockchain)
         if len(owned_coins) < amount:
-            print("Can't make transaction, not enough balance")
+            print(bcolors.FAIL, BALANCE_ERROR_MESSAGE, bcolors.ENDC)
             return
 
         transfer_coins = owned_coins[:amount]

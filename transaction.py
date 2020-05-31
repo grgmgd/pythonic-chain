@@ -11,4 +11,4 @@ class Transaction():
         self.signature = signature
 
     def __str__(self):
-        return f'\nPrevious Transaction hash: {self.previous_transaction_hash}\nAmount: {len(self.coins)} \t Type: {self.type}\n\nCoins: {"".join(map(str, self.coins))}\n---------------------------'
+        return f'\nPrevious Transaction hash: {self.previous_transaction_hash}\nAmount: {len(self.coins)} \t Type: {self.type}\n\nCoins: {"".join(map(str, self.coins))}\n{"="*80}'
