@@ -36,7 +36,7 @@ Each wallet initialized has a public and a private key based on DSA
 **Initialize Scrooge**
 Scrooge expects an array of wallets
 
-    scrooge = Scrooge([wallet])
+    scrooge = Scrooge([wallet_a, wallet_b])
 
 **Generate a Transaction**
 
@@ -76,7 +76,7 @@ A block is printed as follows; contains the block number, previous block has and
 
 ### Blockchain
 
-The blockchain is printed as an array of block as described above.
+The blockchain is printed as an array of blocks as described above.
 
 ## Log 📜
 
