@@ -7,7 +7,7 @@ import random
 import time
 from os import _exit
 
-NUMBER_OF_WALLETS = 20
+NUMBER_OF_WALLETS = 100
 MIN_TRANSFET_AMOUNT = 1
 MAX_TRANSFER_AMOUNT = 10
 
