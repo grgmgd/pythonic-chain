@@ -1,5 +1,5 @@
 from utils import generate_keys, object_hash, signer, verifier, printer
-from blockchain import Blockchain
+from blockchain import Blockchain, Block
 from transaction import Transaction
 from scroogecoin import ScroogeCoin
 from bcolors import bcolors
@@ -62,13 +62,23 @@ class Scrooge():
             return
 
         self.transactions_cache.append(transaction)
+        temp_block = Block(-1, None, self.transactions_cache)
         printer(bcolors.WARNING, bcolors.BOLD, bcolors.UNDERLINE,
                 UNDER_CONSTRUCTION_MESSAGE, bcolors.ENDC, bcolors.ENDC, bcolors.ENDC)
-        printer(bcolors.WARNING, transaction, bcolors.ENDC)
+        printer(bcolors.WARNING, temp_block.__str__(True), bcolors.ENDC)
         self.check_for_new_block()
 
     def create_coins(self, amount, wallet_id):
-        return [ScroogeCoin(wallet_id) for _ in range(amount)]
+        coins = []
+        for _ in range(amount):
+            coin = ScroogeCoin(wallet_id)
+            hashed_coin = object_hash(coin)
+            signature = signer(self.__private_key, hashed_coin)
+            coin.sign(signature)
+
+            coins.append(coin)
+
+        return coins
 
     def genesis(self):
         previous_transaction_hash = None

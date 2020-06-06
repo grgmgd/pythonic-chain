@@ -1,4 +1,4 @@
-from utils import generate_keys, signer, object_hash
+from utils import generate_keys, signer, object_hash, printer
 from transaction import Transaction
 from bcolors import bcolors
 
@@ -15,9 +15,14 @@ class Wallet():
 
     def create_transaction(self, amount, receiver, scrooge):
         owned_coins = self.get_balance(scrooge.blockchain)
+        transfer_coins = owned_coins[:amount]
+
         if len(owned_coins) < amount:
-            print(bcolors.FAIL, BALANCE_ERROR_MESSAGE, bcolors.ENDC)
-            return
+            transaction = Transaction(
+                transfer_coins, receiver.public_key)
+            printer(bcolors.FAIL, bcolors.BOLD, bcolors.UNDERLINE,
+                    BALANCE_ERROR_MESSAGE, bcolors.ENDC, bcolors.ENDC, bcolors.ENDC)
+            printer(bcolors.FAIL, transaction, bcolors.ENDC)
 
         transfer_coins = owned_coins[:amount]
         transaction = Transaction(transfer_coins, receiver.public_key)

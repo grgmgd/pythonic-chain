@@ -34,4 +34,4 @@ if __name__ == '__main__':
 
         wallets[user_a].create_transaction(
             transfer_amount, wallets[user_b], scrooge)
-        time.sleep(2)
+        time.sleep(1)

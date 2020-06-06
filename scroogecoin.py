@@ -6,5 +6,8 @@ class ScroogeCoin():
         self.wallet_id = wallet_id
         self.id = uuid.uuid1()
 
+    def sign(self, signature):
+        self.signature = signature
+
     def __str__(self):
         return f'\nWallet ID: {self.wallet_id.__hash__()}\tcoin id: {self.id}'
