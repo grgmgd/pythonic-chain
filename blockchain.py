@@ -42,5 +42,5 @@ class Block():
     def sign(self, signature):
         self.signature = signature
 
-    def __str__(self):
-        return f'\n{bcolors.OKBLUE}Block No.: {self.index}\tPrevious block hash: {self.previous_hash} {bcolors.ENDC}\n{ "".join(map(str, self.transactions)) }'
+    def __str__(self, under_construction=False):
+        return f'\n{bcolors.OKBLUE}Block No.: {self.index}\tPrevious block hash: {self.previous_hash} {bcolors.ENDC}\n{bcolors.WARNING if under_construction else ""}{ "".join(map(str, self.transactions)) }{bcolors.ENDC if under_construction else ""}'
